@@ -32,6 +32,7 @@ This portfolio showcases the **solo projects** I’ve developed throughout my ac
 - Python
 - Efficient use of Version Control.
 
+<!--
 ### [Java](./Java)
 Methods used in Software Engineering such as 
 - Hash maps
@@ -41,7 +42,7 @@ Methods used in Software Engineering such as
 - Binary and linear searching
 - Object orientated programming
 - (Comming soon)Machine learning using OpenCV, Tensorflow, Pandas, etc.
-
+-->
 
 ## Skills & Technologies 
 - **Technologies**: Mobile Application Development, Software Development, Web Development, AI, Machine Learning
