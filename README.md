@@ -1,13 +1,14 @@
 # Olivia Emms
 
-**BSc Computer Science Student | Aspiring Software Engineer**
+**BSc Computer Science Graduate | Aspiring AI/Data Engineer**
 
 Welcome to my GitHub!
-I am a final-year Computer Science student at Leeds Beckett University, actively seeking **Software Engineering internships for Summer 2025**. After completing my BSc, I plan to pursue an MSc in Advanced Computer Science.
+I have just completed my final-year at Leeds Beckett University studying BSc Computer Science. In September I will be starting my MSc Advanced Computer Science degree to expand my knowledge in the subject of AI.
 
 This portfolio showcases the **solo projects** I’ve developed throughout my academic journey. I have a strong interest for **Artificial Intelligence** and have explored this through my Dissertation and Python directories.
 
-⚡ I am currently mainly working on the Dissertation directory. <br />
+🎓 My most recently complete project is my Production Project for my final-year at university. This project, which was graded 80%, showcases **Computer Vison**, **Colour matching algorithms**, and **Full stack development and deployment**.
+⚡ I am currently mainly working on the AI_Project directory in which I wish to develop a mobile application using a trained CNN model. <br />
 🌱 I am learning more about the AI space and developing ML models in Python.
 
 
@@ -25,6 +26,13 @@ This portfolio showcases the **solo projects** I’ve developed throughout my ac
 
 
 ## Key Projects
+
+### [AI_Project using Python and JavaScript](./AI_Project)
+- JavaScript
+- React-Native
+- Python
+- FlaskAPI
+- CNN ML Model ⏳
 
 ### [Dissertation using Python and JavaScript](./Dissertation)
 - JavaScript
@@ -46,7 +54,7 @@ Methods used in Software Engineering such as
 
 ## Skills & Technologies 
 - **Technologies**: Mobile Application Development, Software Development, Web Development, AI, Machine Learning
-- **Tools**: Git, React-Native
+- **Tools**: Git, React-Native, FlaskAPI, Render ☁️
 
 <!-- - 🔗 [Portfolio Website](https://your-portfolio-link.com)
 -->
