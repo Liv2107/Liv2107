@@ -7,7 +7,7 @@ I have just completed my final-year at Leeds Beckett University studying BSc Com
 
 This portfolio showcases the **solo projects** I’ve developed throughout my academic journey. I have a strong interest for **Artificial Intelligence** and have explored this through my Dissertation and Python directories.
 
-🎓 My most recently complete project is my Production Project for my final-year at university. This project, which was graded 80%, showcases **Computer Vison**, **Colour matching algorithms**, and **Full stack development and deployment**.
+🎓 My most recently complete project is my Production Project for my final-year at university. This project, which was graded 80%, showcases **Computer Vison**, **Colour matching algorithms**, and **Full stack development and deployment**. <br />
 ⚡ I am currently mainly working on the AI_Project directory in which I wish to develop a mobile application using a trained CNN model. <br />
 🌱 I am learning more about the AI space and developing ML models in Python.
 
