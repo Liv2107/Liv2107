@@ -1,9 +1,9 @@
 # Olivia Emms
 
-**BSc Computer Science Graduate | Aspiring AI/Data Engineer**
+**MSc Advanced Computer Science (Artificial Intelligence) | BSc Computer Science Graduate | Aspiring AI/Data Engineer**
 
 Welcome to my GitHub!
-I have just completed my final-year at Leeds Beckett University studying BSc Computer Science. In September I will be starting my MSc Advanced Computer Science degree to expand my knowledge in the subject of AI.
+I have just graduated from Leeds Beckett University with a First Class Honours in BSc Computer Science. In September I will be starting my MSc Advanced Computer Science degree to expand my knowledge in the subject of AI.
 
 This portfolio showcases the **solo projects** I’ve developed throughout my academic journey. I have a strong interest for **Artificial Intelligence** and have explored this through my Dissertation and Python directories.
 
@@ -27,14 +27,14 @@ This portfolio showcases the **solo projects** I’ve developed throughout my ac
 
 ## Key Projects
 
-### [AI_Project using Python and JavaScript](./AI_Project)
+### [AI_Project using Python and JavaScript](https://github.com/Liv2107/AI_Project)
 - JavaScript
 - React-Native
 - Python
 - FlaskAPI
 - CNN ML Model ⏳
 
-### [Dissertation using Python and JavaScript](./Dissertation)
+### [Dissertation using Python and JavaScript](https://github.com/Liv2107/Dissertation)
 - JavaScript
 - React-Native - common cross-platform mobile application development tool.
 - Python
