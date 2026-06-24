@@ -20,7 +20,6 @@ This portfolio showcases the **solo projects** I’ve developed throughout my ac
 <img align="left" alt="Java" width="25px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
 <img align="left" alt="TypeScript" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 <img align="left" alt="React" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-<img align="left" alt="React Native" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 
 <br /><br />
 
